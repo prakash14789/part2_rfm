@@ -1,0 +1,11 @@
+customer_id,segment_name,recency,frequency,monetary,return_rate,avg_discount_pct,ticket_count,negative_ticket_rate,sessions_30d,campaign_clicks_30d
+CUST00001,Discount Sensitive,107,6,2955.57,0.16666666666666666,0.36333333333333334,2.0,0.5,1,0
+CUST00007,Dormant Customers,3,1,719.33,0.0,0.18,0.0,0.0,11,3
+CUST00009,Discount Sensitive,31,1,376.85,0.0,0.49,0.0,0.0,11,0
+CUST00010,Discount Sensitive,9,1,636.8,0.0,0.45,0.0,0.0,13,0
+CUST00011,Dormant Customers,1,2,925.0699999999999,0.0,0.15500000000000003,0.0,0.0,10,0
+CUST00014,High Value But Unhappy,51,11,8130.16,0.0,0.2618181818181818,2.0,0.5,11,0
+CUST00022,Dormant Customers,29,1,454.06,0.0,0.31,0.0,0.0,10,1
+CUST00024,Dormant Customers,4,1,481.35,0.0,0.34,0.0,0.0,13,0
+CUST00025,Loyal Customers,165,7,4868.86,0.0,0.31142857142857144,3.0,0.6666666666666666,11,1
+CUST00027,Dormant Customers,70,1,2128.34,1.0,0.3,1.0,1.0,11,2
