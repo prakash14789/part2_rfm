@@ -230,7 +230,7 @@ data/
 └── rfm_modeling_snapshot.csv
 ```
 
-The notebook reads from `../data/` relative to the `part2_rfm/` folder.
+The notebook reads from the `data/` folder at the root of the project.
 
 ---
 
